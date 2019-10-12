@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\y4561\source\repos\minesweeper\minesweeper\Source.cpp(7,12): warning C4244:  '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\y4561\source\repos\minesweeper\minesweeper\Source.cpp(67,28): warning C4244:  '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\y4561\source\repos\minesweeper\minesweeper\Source.cpp(67,21): warning C4244:  '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'x86' 衝突
